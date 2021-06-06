@@ -26,7 +26,7 @@ A Full Stack developer from Tanzania with good experience in building fast, reli
 <p style="display: block">
 <img src="https://github-readme-stats.vercel.app/api?username=ibrahimwickama&count_private=true&hide_rank=false&show_icons=true&hide_border=true">
 <br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibrahimwickama&count_private=true&langs_count=10&theme=blueberry&layout=compact" style="width: 35rem">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibrahimwickama&count_private=true&langs_count=10&layout=compact" style="width: 35rem">
 </p>
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fibrahimwickama%2Falphalomi&count_bg=%2379C83D&title_bg=%23555555&icon=codeigniter.svg&icon_color=%23E7E7E7&title=hits%2C+why+not+🤫&edge_flat=true)](https://hits.seeyoufarm.com)
