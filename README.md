@@ -3,7 +3,7 @@
 A Full Stack developer from Tanzania with good experience in building fast, reliable & performing cross-platform applications.
 
 - 🌱 Big fun of cross platform technologies using web
-- 👯 I’m currently learning more about Backend technologies with Machine Learning
+- 👯 I’m currently learning more about complex backend technologies with Machine Learning
 - 💬 Ask me about anything [here](https://github.com/ibrahimwickama/ibrahimwickama/issues)
 - 📫 How to reach me: [ibrahimwickama@gmail.com](mailto:ibrahimwickama@gmail.com) or [telegram](https://t.me/ibrahimwickama)
 - 😄 Pronouns: He/Him
@@ -33,5 +33,5 @@ A Full Stack developer from Tanzania with good experience in building fast, reli
 
 <p>
 <b>NOTE: </b>
-Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github public repositories.
+Top languages does not indicate my skill level or something like that, it's a github metric of which languages I have the most code on github public repositories.
 </p>
