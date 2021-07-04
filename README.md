@@ -5,7 +5,7 @@ A Full Stack developer from Tanzania with good experience in building fast, reli
 - 🌱 Big fun of cross platform technologies using web
 - 👯 I’m currently learning more about complex backend technologies with Machine Learning
 - 💬 Ask me about anything [here](https://github.com/ibrahimwickama/ibrahimwickama/issues)
-- 📫 How to reach me: [ibrahimwickama@gmail.com](mailto:ibrahimwickama@gmail.com) or [telegram](https://t.me/ibrahimwickama)
+- 📫 How to reach me: [Gmail](mailto:ibrahimwickama@gmail.com) or [Telegram](https://t.me/ibrahimwickama)
 - 😄 Pronouns: He/Him
 
 <!-- - 🔭 I’m currently working on -->
